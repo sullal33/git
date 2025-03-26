@@ -5,3 +5,5 @@
 #Multiply
 
 #Percentage
+
+#Modulus
